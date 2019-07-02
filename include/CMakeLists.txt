@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.7)
+project(c11lib)
+SET(CMAKE_BUILD_TYPE Debug)
+set(CMAKE_CXX_STANDARD 11)
+include_directories(${CMAKE_CURRENT_SOURCE_DIR}/include)
+add_executable(split example/split.cpp)

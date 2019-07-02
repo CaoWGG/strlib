@@ -1,0 +1,3 @@
+/home/cao/CLionProjects/c11lib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cao/CLionProjects/c11lib/cmake-build-debug/CMakeFiles/split.dir
+/home/cao/CLionProjects/c11lib/cmake-build-debug/CMakeFiles/edit_cache.dir

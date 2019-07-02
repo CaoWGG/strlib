@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/split.dir/example/split.cpp.o  -o split 

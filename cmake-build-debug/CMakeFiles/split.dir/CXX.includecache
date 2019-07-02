@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/strlib.h
+iostream
+-
+sstream
+-
+string
+-
+vector
+-
+algorithm
+-
+cctype
+-
+locale
+-
+
+/home/cao/CLionProjects/c11lib/example/split.cpp
+strlib.h
+/home/cao/CLionProjects/c11lib/example/strlib.h
+fstream
+-
+
