@@ -1,0 +1,2 @@
+# strlib
+c++ string lib
